@@ -12,7 +12,7 @@ let imageinput= document.querySelector("#image input");
 
 
 
-const Api_Url="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAwLmRL9FTzkVEZFwfiAiAPTYU2vlb8OEs"
+// const Api_Url= USE YOUR OWN API KEY
 
 let user={
     message:null,
